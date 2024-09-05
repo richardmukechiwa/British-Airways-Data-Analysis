@@ -1,3 +1,3 @@
 # British-Airways-Data-Analysis
 
-British AirwaysProject.ipynb
+British-Airways-Data-Analysis/British AirwaysProject.ipynb
