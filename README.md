@@ -1,4 +1,5 @@
-[Britishairways]()
+![Britishairways](https://github.com/richardmukechiwa/British-Airways-Data-Analysis/blob/main/arkin-si-jDfvI6UOIeI-unsplash.jpg)
+
 British Airways Service Delivery Analysis
 Overview
 The British Airways Service Delivery Analysis project aims to provide insights into customer satisfaction and service quality to help British Airways improve its service delivery and maintain its status as the airline of choice. By analyzing reviews and ratings from passengers, the airline can identify key areas for improvement and leverage its strengths to enhance customer experience.
